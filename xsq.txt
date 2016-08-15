@@ -1,7 +1,1 @@
 xsqsdgfsgsdag
-dfsdfsdafsad
-
-/*@RequestParam(required = false) Integer msgType,*/
-/*if (msgType != null){
-				conversationModel.setMsgType((byte)msgType.intValue());
-			}*/
